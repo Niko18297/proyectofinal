@@ -1,0 +1,60 @@
+
+*{
+  box-sizing: border-box;
+}
+.col-3 {
+    background-color: gray;
+    color: white;
+}
+
+.col-7 {
+    background-color: aliceblue;
+
+}
+
+h2{
+    color: rgb(0, 0, 148);
+}
+
+ul {
+    list-style-position:initial;
+   text-align: left;
+  }
+
+  h1{
+    font-size: 60px;
+  }
+  
+ .col-7 hr{
+    height: 8px;
+background-color: rgb(10, 0, 150);
+}
+
+.col-3 hr{
+    height: 4px;
+background-color: white;
+}
+
+ #foto {
+    border-radius: 90%;
+    border-color:black;
+    border-width: 5px;
+    border-style: solid;
+  }
+
+  h4{
+    text-align: left;
+    font-size: large;
+  }
+
+  *{
+    font-family: 'Alfa Slab One', cursive;
+  }
+
+  h4{
+    color: rgb(84, 0, 163);
+  }
+
+  h3{
+    color: rgb(126, 15, 15);
+  }
